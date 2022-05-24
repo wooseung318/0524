@@ -1,1 +1,1 @@
-print("good")
+print("손우승")
